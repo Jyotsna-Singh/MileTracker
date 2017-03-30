@@ -21,7 +21,7 @@ View/Add/Edit Runs. Filter Runs by Date or Distance | Add Run & Add Date of Run 
 ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/Home.PNG "MileTracker|Home")  | ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/AddRun.PNG "MileTracker|Add Run")  | ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/clear.PNG "MileTracker|Clear") 
 
 ## Vendors
-jQuer yMobile - [http://jquerymobile.com/](http://jquerymobile.com/) 
+jQuery Mobile - [http://jquerymobile.com/](http://jquerymobile.com/) 
 
 
 
