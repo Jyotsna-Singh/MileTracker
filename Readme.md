@@ -11,7 +11,7 @@
 1.0.0
 
 ## Live Demo
- [MileTracker](http://jyotsnasingh.com/projects/JavaScript/MileTracker-MobileApp/)
+ [JyotsnaSingh/MileTracker](http://jyotsnasingh.com/projects/JavaScript/MileTracker-MobileApp/)
 
 ## Usage
 
