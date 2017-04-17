@@ -1,4 +1,4 @@
-# Mile Tracker
+# ![alt tag](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/logo.PNG)
 
 **Mile tracker** is a mobile based app built with HTML5 and jQuery Mobile framework. The app allows the user to enter run or jog mileage and the date along with the ability to update and delete. LocalStorage will be used for storing data
 
@@ -10,8 +10,8 @@
 ## Version
 1.0.0
 
-## Live Demo
- [JyotsnaSingh/MileTracker](http://jyotsnasingh.com/projects/JavaScript/MileTracker-MobileApp/)
+## Live Demo - MileTracker
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/MileTracker-MobileApp/)
 
 ## Usage
 
