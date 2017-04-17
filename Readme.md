@@ -18,8 +18,8 @@
 **Home Page** | **Add Run Page** | **Clear All Runs**
 --- | --- | ---
 View/Add/Edit Runs. Filter Runs by Date or Distance | Add Run & Add Date of Run using Datepicker  | Clear the localstorage by deleting all the runs in one go. 
-![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/Home.PNG "MileTracker|Home")  | ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/AddRun.PNG "MileTracker|Add Run")  | ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/clear.PNG "MileTracker|Clear") 
-
+![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/Home.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/AddRun.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/MileTracker/blob/master/images/clear.PNG ) 
+  
 ## Vendors
 jQuery Mobile - [http://jquerymobile.com/](http://jquerymobile.com/) 
 
